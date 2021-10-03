@@ -3,6 +3,7 @@
 
 <main>
 	<h1><a href="https://svelte.dev" alt="SvelteJS">Svelte</a> on <a href="pages.github.com" alt="Github Pages">Github Pages</a></h1>
+	<h1><a href="https://github.com/mibmo/svelte-on-github-pages" alt="svelte on github pages" style="text-decoration: underline">How?</a></h1>
 </main>
 
 <style>
